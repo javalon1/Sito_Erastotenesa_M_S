@@ -8,6 +8,7 @@ public class App
 {
     public static void main( String[] args )
     {
+        Erastotenes2.sito(30);
         int k =2;
         while (k<200){
             int licznik = 0;
